@@ -1,9 +1,9 @@
 # Hyperboard
 Has some operating system logos/mascots to redeem good looks. Uses KMK firmware with shortcuts and macros made with use in Emacs in mind.
 ## Pictures
-![pcb](pcb.png)
-![case](image.png)
-![schematic](schematic.png)
+![pcb](./assets/pcb.png)
+![case](./assets/image.png)
+![schematic](./assets/schematic.png)
 
 ## BOM
 - 79 MX Style switches
